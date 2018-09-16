@@ -1,0 +1,6 @@
+[package]
+name = "hashMap"
+version = "0.1.0"
+authors = ["Natanael Mojica <nmojica@signalsecure.com>"]
+
+[dependencies]
